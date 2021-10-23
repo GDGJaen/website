@@ -3,21 +3,22 @@ export default {
     {
       name: "Rafael Gómez",
       role: "Organizador",
-      picture: "https://cdn-icons-png.flaticon.com/512/747/747376.png",
+      picture: "https://ik.imagekit.io/gdgjaen/website/team/rafa_quWY42E3F.png",
       social: {
         github: "https://github.com/rgomez96",
       },
     },
     {
-      name: "Abdallah Abedraba",
-      role: "Organizador",
-      picture: "https://avatars.githubusercontent.com/u/27779735?v=4",
+      name: "Mara Luque",
+      role: "Organizadora",
+      picture:
+        "https://ik.imagekit.io/gdgjaen/team/maraProfile_eggNQNwNJ.jpeg?updatedAt=1633613774705",
       social: {
-        github: "https://github.com/aabedraba",
-        website: "https://www.aabedraba.com/",
-        twitter: "https://twitter.com/aabedraba",
+        twitter: "https://twitter.com/m4r4__",
+        instagram: "https://www.instagram.com/maraluquee",
       },
     },
+
     {
       name: "Manuel Alférez",
       role: "Organizador",
@@ -32,7 +33,7 @@ export default {
       name: "José Honrubia",
       role: "Organizador",
       picture:
-        "https://media-exp1.licdn.com/dms/image/C4D03AQHD8Q7rY6gE1g/profile-displayphoto-shrink_800_800/0/1594379775090?e=1639008000&v=beta&t=Ozb942mT8i1Au3a8ju2glxDlTkkvLdwIdR29XPX7XuM",
+        "https://media-exp1.licdn.com/dms/image/C4D03AQHD8Q7rY6gE1g/profile-displayphoto-shrink_200_200/0/1594379775090?e=1640217600&v=beta&t=PjAzBIiV1p0W9FJOdhkk0fP4oVRAu8ZzFgRiTizOAKw",
       social: {
         linkedin: "https://www.linkedin.com/in/jhonrubia/",
       },
@@ -40,22 +41,14 @@ export default {
     {
       name: "Jose Manuel Rus",
       role: "Organizador",
-      picture: "https://cdn-icons-png.flaticon.com/512/747/747376.png",
+      picture:
+        "https://ik.imagekit.io/gdgjaen/website/team/jose_wqvOdRja-1-.png",
       social: {
         linkedin:
           "https://www.linkedin.com/in/jose-manuel-rus-manj%C3%B3n-72682116b",
       },
     },
-    {
-      name: "Mara Luque",
-      role: "Organizador",
-      picture:
-        "https://ik.imagekit.io/gdgjaen/team/maraProfile_eggNQNwNJ.jpeg?updatedAt=1633613774705",
-      social: {
-        twitter: "https://twitter.com/m4r4__",
-        instagram: "https://www.instagram.com/maraluquee",
-      },
-    },
+
     {
       name: "Jesús Enrique",
       role: "Organizador",
@@ -67,10 +60,20 @@ export default {
       },
     },
     {
+      name: "Abdallah Abedraba",
+      role: "Organizador",
+      picture: "https://avatars.githubusercontent.com/u/27779735?v=4",
+      social: {
+        github: "https://github.com/aabedraba",
+        website: "https://www.aabedraba.com/",
+        twitter: "https://twitter.com/aabedraba",
+      },
+    },
+    {
       name: "Alberto Checa",
       role: "Organizador",
       picture:
-        "https://ik.imagekit.io/gdgjaen/team/albertoProfile_d6qn4mkuN.jpeg?updatedAt=1633614014027",
+        "https://ik.imagekit.io/gdgjaen/website/team/albertoProfile_d6qn4mkuN.jpeg?updatedAt=1634029330999",
       social: {
         linkedin:
           "https://www.linkedin.com/in/alberto-checa-g%C3%B3mez-691101160",

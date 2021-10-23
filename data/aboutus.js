@@ -38,5 +38,5 @@ export default {
     },
   ],
   eventImageURL:
-    "https://ik.imagekit.io/gdgjaen/images/eventPeople_GlU-0ht1D.jpeg?updatedAt=1633596180152",
+    "https://ik.imagekit.io/gdgjaen/website/images/eventPeople_GlU-0ht1D.jpeg?updatedAt=1634029331180",
 };
