@@ -1,4 +1,5 @@
 export default {
   boldWord: "Únete ",
-  text: "a nuestra comunidad y aprende cosas",
+  text: "a nuestro DevFest 2021",
+  ticketsURL: "https://gdgjaen-devfest.vercel.app/",
 };
