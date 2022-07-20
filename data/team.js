@@ -33,7 +33,7 @@ export default {
       name: "José Honrubia",
       role: "Organizador",
       picture:
-        "https://media-exp1.licdn.com/dms/image/C4D03AQHD8Q7rY6gE1g/profile-displayphoto-shrink_200_200/0/1594379775090?e=1640217600&v=beta&t=PjAzBIiV1p0W9FJOdhkk0fP4oVRAu8ZzFgRiTizOAKw",
+        "https://media-exp2.licdn.com/dms/image/C4D03AQHD8Q7rY6gE1g/profile-displayphoto-shrink_200_200/0/1594379775090?e=1663804800&v=beta&t=l1VX2GiyHIJuDt_hVDbNW76dIKxVUsGVw8rgVfnEoNA",
       social: {
         linkedin: "https://www.linkedin.com/in/jhonrubia/",
       },
@@ -77,6 +77,28 @@ export default {
       social: {
         linkedin:
           "https://www.linkedin.com/in/alberto-checa-g%C3%B3mez-691101160",
+        twitter: "https://twitter.com/albercgdev",
+      },
+    },
+    {
+      name: "Manuel Germán",
+      role: "Organizador",
+      picture:
+        "https://media-exp2.licdn.com/dms/image/C4E03AQGjpiidhxCKkQ/profile-displayphoto-shrink_200_200/0/1654942485594?e=1663804800&v=beta&t=dtLdrqjN_2YTPyyLGiVZs1sFyLhYz-m_SYNOfpzQ5GM",
+      social: {
+        linkedin: "https://www.linkedin.com/in/mgermanm/",
+        twitter: "https://twitter.com/mgermanm0",
+        github: "https://github.com/mgermanm0",
+      },
+    },
+    {
+      name: "David Martinez",
+      role: "Organizador",
+      picture:
+        "https://ik.imagekit.io/gdgjaen/website/team/david_SuMxE4JH9.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1658315804749",
+      social: {
+        twitter: "https://twitter.com/ZeroFreyzer",
+        github: "https://github.com/FreyzerFault",
       },
     },
   ],
