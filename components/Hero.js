@@ -9,14 +9,14 @@ function Hero() {
           <span className="font-semibold">{data.boldWord}</span> {data.text}
         </h1>
       </div>
-      {/* <Link href={data.ticketsURL}>
+      <Link href={data.ticketsURL}>
         <a
           className="bg-blue-400 hover:bg-blue-300 absolute z-10 text-center top-3/4 w-4/6 md:w-3/6 md:translate-x-2/4  -translate-y-2/4 translate-x-1/4 text-white p-4 lg:text-2xl"
           target="_blank"
         >
           Saber más
         </a>
-      </Link> */}
+      </Link>
     </div>
   );
 }
